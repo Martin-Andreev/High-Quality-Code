@@ -1,0 +1,10 @@
+D:\SoftUni\Level #2\High Quality Code\Naming Identifiers\C#\Mini4ki\bin\Debug\Minesweeper.exe
+D:\SoftUni\Level #2\High Quality Code\Naming Identifiers\C#\Mini4ki\bin\Debug\Minesweeper.pdb
+D:\SoftUni\Level #2\High Quality Code\Naming Identifiers\C#\Mini4ki\obj\Debug\MinesweeperGame.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\High Quality Code\Naming Identifiers\C#\Mini4ki\obj\Debug\Minesweeper.exe
+D:\SoftUni\Level #2\High Quality Code\Naming Identifiers\C#\Mini4ki\obj\Debug\Minesweeper.pdb
+D:\SoftUni\Level #2\High Quality Code\Naming Identifiers\C#\Minesweeper\obj\Debug\Minesweeper.exe
+D:\SoftUni\Level #2\High Quality Code\Naming Identifiers\C#\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\SoftUni\Level #2\High Quality Code\Naming Identifiers\C#\Minesweeper\bin\Debug\Minesweeper.exe
+D:\SoftUni\Level #2\High Quality Code\Naming Identifiers\C#\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\SoftUni\Level #2\High Quality Code\Naming Identifiers\C#\Minesweeper\obj\Debug\MinesweeperGame.csprojResolveAssemblyReference.cache
