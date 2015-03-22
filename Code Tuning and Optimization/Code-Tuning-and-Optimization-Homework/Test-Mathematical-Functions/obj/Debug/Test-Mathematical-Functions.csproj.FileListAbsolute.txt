@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Mathematical-Functions\bin\Debug\Test-Mathematical-Functions.exe.config
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Mathematical-Functions\obj\Debug\Test-Mathematical-Functions.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Mathematical-Functions\bin\Debug\Test-Mathematical-Functions.exe
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Mathematical-Functions\bin\Debug\Test-Mathematical-Functions.pdb
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Mathematical-Functions\obj\Debug\Test-Mathematical-Functions.exe
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Mathematical-Functions\obj\Debug\Test-Mathematical-Functions.pdb

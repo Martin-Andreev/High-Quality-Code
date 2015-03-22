@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Operations Performance Tests\Test-Arithmetical-Operations\bin\Debug\Test-Arithmetical-Operations.exe.config
+C:\Users\Martin\Desktop\Operations Performance Tests\Test-Arithmetical-Operations\bin\Debug\Test-Arithmetical-Operations.exe
+C:\Users\Martin\Desktop\Operations Performance Tests\Test-Arithmetical-Operations\bin\Debug\Test-Arithmetical-Operations.pdb
+C:\Users\Martin\Desktop\Operations Performance Tests\Test-Arithmetical-Operations\obj\Debug\Test-Arithmetical-Operations.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Operations Performance Tests\Test-Arithmetical-Operations\obj\Debug\Test-Arithmetical-Operations.exe
+C:\Users\Martin\Desktop\Operations Performance Tests\Test-Arithmetical-Operations\obj\Debug\Test-Arithmetical-Operations.pdb

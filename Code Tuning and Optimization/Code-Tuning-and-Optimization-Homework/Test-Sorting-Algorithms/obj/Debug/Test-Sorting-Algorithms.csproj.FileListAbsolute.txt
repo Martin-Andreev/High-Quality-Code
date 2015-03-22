@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Sorting-Algorithms\bin\Debug\Test-Sorting-Algorithms.exe.config
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Sorting-Algorithms\bin\Debug\Test-Sorting-Algorithms.exe
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Sorting-Algorithms\bin\Debug\Test-Sorting-Algorithms.pdb
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Sorting-Algorithms\obj\Debug\Test-Sorting-Algorithms.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Sorting-Algorithms\obj\Debug\Test-Sorting-Algorithms.exe
+D:\SoftUni\Level #2\High Quality Code\Code Tuning and Optimization\Homework\Code-Tuning-and-Optimization-Homework\Test-Sorting-Algorithms\obj\Debug\Test-Sorting-Algorithms.pdb

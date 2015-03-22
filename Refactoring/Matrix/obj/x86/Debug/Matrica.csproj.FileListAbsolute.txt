@@ -1,0 +1,5 @@
+D:\SoftUni\Level #2\High Quality Code\Refactoring\Homework\Matrica\bin\Debug\GameFifteen.exe
+D:\SoftUni\Level #2\High Quality Code\Refactoring\Homework\Matrica\bin\Debug\GameFifteen.pdb
+D:\SoftUni\Level #2\High Quality Code\Refactoring\Homework\Matrica\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\High Quality Code\Refactoring\Homework\Matrica\obj\x86\Debug\GameFifteen.exe
+D:\SoftUni\Level #2\High Quality Code\Refactoring\Homework\Matrica\obj\x86\Debug\GameFifteen.pdb

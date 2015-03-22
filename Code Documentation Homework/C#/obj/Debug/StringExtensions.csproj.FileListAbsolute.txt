@@ -1,0 +1,5 @@
+D:\SoftUni\Level #2\High Quality Code\Code Documentation Homework\C#\bin\Debug\StringExtensions.dll
+D:\SoftUni\Level #2\High Quality Code\Code Documentation Homework\C#\bin\Debug\StringExtensions.pdb
+D:\SoftUni\Level #2\High Quality Code\Code Documentation Homework\C#\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\High Quality Code\Code Documentation Homework\C#\obj\Debug\StringExtensions.dll
+D:\SoftUni\Level #2\High Quality Code\Code Documentation Homework\C#\obj\Debug\StringExtensions.pdb

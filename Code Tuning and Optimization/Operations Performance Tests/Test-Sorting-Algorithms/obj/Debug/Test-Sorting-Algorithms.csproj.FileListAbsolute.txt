@@ -1,0 +1,1 @@
+C:\Users\Martin\Desktop\Operations Performance Tests\Test-Sorting-Algorithms\bin\Debug\Test-Sorting-Algorithms.exe.config

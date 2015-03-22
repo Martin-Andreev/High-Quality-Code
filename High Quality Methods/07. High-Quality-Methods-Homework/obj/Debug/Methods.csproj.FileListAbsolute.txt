@@ -1,0 +1,5 @@
+D:\SoftUni\Level #2\High Quality Code\High Quality Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\High Quality Code\High Quality Methods\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+D:\SoftUni\Level #2\High Quality Code\High Quality Methods\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+D:\SoftUni\Level #2\High Quality Code\High Quality Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+D:\SoftUni\Level #2\High Quality Code\High Quality Methods\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
