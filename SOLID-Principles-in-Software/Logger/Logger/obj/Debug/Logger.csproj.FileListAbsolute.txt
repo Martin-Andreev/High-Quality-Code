@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\High Quality Code\Task\Logger\Logger\bin\Debug\Logger.exe.config
+D:\SoftUni\Level #2\High Quality Code\Task\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\High Quality Code\Task\Logger\Logger\bin\Debug\Logger.exe
+D:\SoftUni\Level #2\High Quality Code\Task\Logger\Logger\bin\Debug\Logger.pdb
+D:\SoftUni\Level #2\High Quality Code\Task\Logger\Logger\obj\Debug\Logger.exe
+D:\SoftUni\Level #2\High Quality Code\Task\Logger\Logger\obj\Debug\Logger.pdb
