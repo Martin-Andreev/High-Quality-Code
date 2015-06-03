@@ -1,0 +1,7 @@
+D:\SoftUni\Level #2\High Quality Code\Exam\Exam Preparation\Exam Morning Travel Agency\TravelAgency\obj\x86\Debug\TravelAgency.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\High Quality Code\Exam\Exam Preparation\Exam Morning Travel Agency\TravelAgency\bin\Debug\PowerCollections.dll
+D:\SoftUni\Level #2\High Quality Code\Exam\Exam Preparation\Exam Morning Travel Agency\TravelAgency\bin\Debug\PowerCollections.xml
+D:\SoftUni\Level #2\High Quality Code\Exam\Exam Preparation\Exam Morning Travel Agency\TravelAgency\bin\Debug\TravelAgency.exe
+D:\SoftUni\Level #2\High Quality Code\Exam\Exam Preparation\Exam Morning Travel Agency\TravelAgency\bin\Debug\TravelAgency.pdb
+D:\SoftUni\Level #2\High Quality Code\Exam\Exam Preparation\Exam Morning Travel Agency\TravelAgency\obj\x86\Debug\TravelAgency.exe
+D:\SoftUni\Level #2\High Quality Code\Exam\Exam Preparation\Exam Morning Travel Agency\TravelAgency\obj\x86\Debug\TravelAgency.pdb
